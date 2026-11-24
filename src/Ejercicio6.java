@@ -16,7 +16,7 @@ public class Ejercicio6 {
             case 5 -> System.out.println("Viernes");
             case 6 -> System.out.println("Sábado");
             case 7 -> System.out.println("Domingo");
-            default -> System.out.println("Número inválido");
+            default -> System.out.println("Número invalido");
         }
     }
 }
